@@ -1,0 +1,11 @@
+.alert {
+  width: 110px;
+  height: 40px;
+  margin-top: 20px;
+  margin-left: 84px;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: #167acc;
+  color: #ffffff;
+  border: none;
+}
