@@ -1,10 +1,10 @@
-#spendit-test
+# spendit-test
 
 React calendar component created with [react-dates](https://github.com/airbnb/react-dates)
 
 
 
-###Run the test locally
+### Run the test locally
 
 You can run this test locally by performing these steps:
 
